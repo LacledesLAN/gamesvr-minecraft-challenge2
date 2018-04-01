@@ -1,4 +1,4 @@
-# Laclede's LAN Minecraft Challenge 1
+# Laclede's LAN Minecraft Challenge 2
 
 Minecraft world divided into multiple identical zones that are blocked off from each other. A build challenge is set and teams of 1 to 3 players gets assigned a zone. At the end each team's creation is judged.
 
